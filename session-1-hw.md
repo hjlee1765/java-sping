@@ -45,5 +45,8 @@ OS > JVM > WAS 안에, 여러 WebApplication을 등록할 수 있는데, **conte
 
 
 ### 2 AOP
----------
+Aspect-Oriented Programming: 관점 지향 프로그래밍
+
+![Alt text](img/aop1.png)
+
 
