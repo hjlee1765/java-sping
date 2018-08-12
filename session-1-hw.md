@@ -37,7 +37,7 @@ OS > JVM > WAS 안에, 여러 WebApplication을 등록할 수 있는데, **conte
 ## 3. AOP
 Aspect-Oriented Programming: 관점 지향 프로그래밍
 
-![My image](img/aop1.png "aop")
+![My image](img/aop1.PNG "aop")
 
 특정 기능이 있는 클래스 안에는 핵심적인 처리만 하고, 본질적이지 않은 기능들은 따로 기술.
 
